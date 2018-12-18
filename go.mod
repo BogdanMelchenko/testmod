@@ -1,1 +1,1 @@
-module github.com/BogdanMelchenko/testmod
+module github.com/robteix/testmod/v2
